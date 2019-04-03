@@ -1,0 +1,14 @@
+C:\Users\Alex\source\repos\HashConverter\HashConverter\bin\Debug\HashConverter.exe.config
+C:\Users\Alex\source\repos\HashConverter\HashConverter\bin\Debug\HashConverter.exe
+C:\Users\Alex\source\repos\HashConverter\HashConverter\bin\Debug\HashConverter.pdb
+C:\Users\Alex\source\repos\HashConverter\HashConverter\obj\Debug\HashConverter.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\HashConverter\HashConverter\obj\Debug\HashConverter.Form1.resources
+C:\Users\Alex\source\repos\HashConverter\HashConverter\obj\Debug\HashConverter.Properties.Resources.resources
+C:\Users\Alex\source\repos\HashConverter\HashConverter\obj\Debug\HashConverter.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\HashConverter\HashConverter\obj\Debug\HashConverter.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\HashConverter\HashConverter\obj\Debug\HashConverter.exe
+C:\Users\Alex\source\repos\HashConverter\HashConverter\obj\Debug\HashConverter.pdb
+C:\Users\Alex\source\repos\HashConverter\HashConverter\bin\Debug\HashConverter.exe.manifest
+C:\Users\Alex\source\repos\HashConverter\HashConverter\bin\Debug\HashConverter.application
+C:\Users\Alex\source\repos\HashConverter\HashConverter\obj\Debug\HashConverter.exe.manifest
+C:\Users\Alex\source\repos\HashConverter\HashConverter\obj\Debug\HashConverter.application
